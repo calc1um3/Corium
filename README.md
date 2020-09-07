@@ -1,2 +1,4 @@
 # unitygamethingy
-just a unity game
+just a crappy unity game
+
+:O

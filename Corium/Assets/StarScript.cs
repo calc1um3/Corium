@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+/*
 public class StarScript : MonoBehaviour
 {
-
+    
     public float degreesPerSecond = 15.0f;
     public float amplitude = 0.5f;
     public float frequency = 1f;
@@ -30,4 +32,8 @@ public class StarScript : MonoBehaviour
 
         transform.position = tempPos;
     }
+
+
+    
 }
+*/
